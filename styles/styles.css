@@ -2,3 +2,7 @@ body {
     padding: 20px;
     color: blueviolet;
 }
+h1, h2 { 
+    color: darkmagenta;
+    background-color: blanchedalmond;
+        }
